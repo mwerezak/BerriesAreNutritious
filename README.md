@@ -1,3 +1,5 @@
+As of 2024/7/23 this repository is no longer maintained.
+
 # Berries are Nutritious
 
 Berries are nutritious. Now this fact can be realized in Timberborn with the help of this mod.
